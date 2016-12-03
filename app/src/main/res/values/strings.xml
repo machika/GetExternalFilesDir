@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetExternalFilesDir</string>
+    <string name="button_label">外部ファイルディレクトリ取得</string>
+</resources>
